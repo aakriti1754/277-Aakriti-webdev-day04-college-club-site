@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Connect College Club
 
 <img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/c8eb5ac7-0c1c-48a2-a9fc-9a0eb876224c" />
@@ -50,3 +51,6 @@ college-club-site/
 ├── favicon.svg
 └── README.md
 ```
+=======
+# 277-Aakriti-webdev-day04-college-club-site
+>>>>>>> 9796382b85fe75d919f7ad4fb5e54742a44c2e9e
