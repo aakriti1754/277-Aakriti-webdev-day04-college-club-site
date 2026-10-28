@@ -39,7 +39,7 @@ This project is developed using HTML5 and CSS3 with a colorful, modern, and user
     └── college-club-website.png
 ```
 
-*Note: Your actual filenames and folders may differ.*
+
 
 ## 🚀 How to Run the Project
 
