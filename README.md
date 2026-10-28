@@ -1,56 +1,90 @@
 <<<<<<< HEAD
 # Campus Connect College Club
 
-<img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/c8eb5ac7-0c1c-48a2-a9fc-9a0eb876224c" />
 
-A responsive four-page college club website built with HTML and CSS. This is a static front-end project, so it does not need a framework or build step.
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 113808" src="https://github.com/user-attachments/assets/d6296f53-3ae7-43ee-800d-4f7d90c12eb3" />
 
-## Pages
+# 🎓 College Club Website
 
-- `index.html` — club introduction and calls to action.
-- `about.html` — club story and an accessible event table with a caption, `thead`, `tbody`, `tfoot`, and a `colspan`.
-- `registration.html` — student registration form and volunteer application. The forms demonstrate text, email, password, number, date, URL, telephone, time, radio, checkbox, select, textarea, file, and submit controls.
-- `contact.html` — club contact details and a message form.
+## 📌 About the Project
 
-All four pages use the same navigation, responsive stylesheet, description and viewport metadata, and SVG favicon.
+The College Club Website is a responsive website designed to showcase college clubs, their activities, events, and student participation. It provides students with an attractive and simple way to explore different clubs and learn about college activities.
 
-## Preview the website
+This project is developed using HTML5 and CSS3 with a colorful, modern, and user-friendly design.
 
-Open `index.html` in a web browser. The forms demonstrate native HTML validation. The `action="#"` placeholders do not send submissions to a server; connect a form service or backend before collecting real responses.
+## ✨ Features
 
-## Personalize the project
+- 🎨 Beautiful and attractive user interface
+- 📱 Responsive layout for different screen sizes
+- 🎭 Attractive colors, gradients, and shadows
+- 🃏 Stylish cards and sections
+- ✨ Smooth hover effects and transitions
+- 🧭 Simple and easy-to-use navigation
+- 🎓 Displays college club information and activities
 
-1. Replace the sample club name, descriptions, email address, location, and event details with your own college or assignment details.
-2. Update the displayed year if needed.
-3. Save your work in a repository named using this format:
+## 🛠️ Technologies Used
 
-   ```text
-   <rollno>-<firstname>-webdev-day04-college-club-site
-   ```
+- **HTML5** – To create the structure of the website.
+- **CSS3** – To style the website, create layouts, add colors, and animations.
 
-   Replace `<rollno>` with your roll number and `<firstname>` with your first name.
-
-## Student submission instructions
-
-1. Create your **own individual repository** using the naming format above.
-2. Use this project as a reference while completing your assignment. Customize the pages and details for your own submission.
-3. Push your finished project files to your individual repository.
-4. Copy the link to your repository.
-5. Submit that link in the Google Sheet shared in the WhatsApp group.
-6. Take a screenshot of your website in a browser and include it with your submission if your instructor requests one.
-
-## Project structure
+## 📂 Project Structure
 
 ```text
-college-club-site/
+277-Aakriti-webdev-day04-college-club-site/
+│
 ├── index.html
-├── about.html
-├── registration.html
-├── contact.html
 ├── styles.css
-├── favicon.svg
-└── README.md
+├── README.md
+└── screenshots/
+    └── college-club-website.png
 ```
-=======
-# 277-Aakriti-webdev-day04-college-club-site
->>>>>>> 9796382b85fe75d919f7ad4fb5e54742a44c2e9e
+
+*Note: Your actual filenames and folders may differ.*
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository.
+2. Extract the project folder if it is downloaded as a ZIP file.
+3. Open the project folder in Visual Studio Code.
+4. Open `index.html`.
+5. Right-click the file and select **Open with Live Server**.
+6. The website will open in your browser.
+
+You can also open `index.html` directly in a web browser.
+
+## 📸 Project Screenshot
+
+Add a screenshot of your completed website inside the `screenshots` folder.
+
+Then display it here:
+
+![College Club Website Screenshot](screenshots/college-club-website.png)
+
+*Make sure the screenshot filename and path match the actual image in your repository.*
+
+## 🌐 GitHub Repository
+
+[View the College Club Website Repository](https://github.com/aakriti1754/277-Aakriti-webdev-day04-college-club-site)
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned how to:
+
+- Build a webpage using HTML.
+- Style elements using CSS.
+- Create attractive layouts and cards.
+- Use colors, gradients, shadows, and hover effects.
+- Organize project files and folders.
+- Upload and manage project files using Git and GitHub.
+
+## 👩‍💻 Author
+
+**Aakriti**
+
+Created as part of a Web Development learning assignment.
+
+---
+
+⭐ Thank you for visiting my College Club Website project!
+
+
