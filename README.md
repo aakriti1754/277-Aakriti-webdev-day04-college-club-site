@@ -54,17 +54,15 @@ You can also open `index.html` directly in a web browser.
 
 ## 📸 Project Screenshot
 
-Add a screenshot of your completed website inside the `screenshots` folder.
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 113808" src="https://github.com/user-attachments/assets/d6296f53-3ae7-43ee-800d-4f7d90c12eb3" />
 
-Then display it here:
 
-![College Club Website Screenshot](screenshots/college-club-website.png)
 
-*Make sure the screenshot filename and path match the actual image in your repository.*
+
 
 ## 🌐 GitHub Repository
 
-[View the College Club Website Repository](https://github.com/aakriti1754/277-Aakriti-webdev-day04-college-club-site)
+(https://github.com/aakriti1754/277-Aakriti-webdev-day04-college-club-site)
 
 ## 🎯 Learning Outcomes
 
